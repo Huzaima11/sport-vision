@@ -1004,12 +1004,12 @@ button:focus:not(:focus-visible) {
     padding-left: 0;
   }
   .scroll {
-    bottom: 80px;
+    bottom: 120px;
   }
   .slick-carousel-buttons {
     position: absolute;
     width: 150px;
-    bottom: 30px;
+    bottom: 60px;
     left: 50%;
     right: 50px;
     transform: translateX(-50%);
