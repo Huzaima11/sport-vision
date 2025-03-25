@@ -533,6 +533,7 @@ body {
   }
   .home-about .about-title {
     margin-bottom: 30px !important;
+    text-align: center;
   }
 }
 
@@ -690,7 +691,7 @@ body {
 }
 
 .home-about .about-title {
-  font-size: 35px;
+  font-size: 32px;
   font-weight: 700;
   /* margin-top: 82px; */
   margin-bottom: 45px;
